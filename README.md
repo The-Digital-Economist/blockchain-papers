@@ -6,7 +6,7 @@ This repository explores the transformative potential of blockchain in reimagini
 
 ## 📄 Papers & Publications
 
-1. [Blockchain Applications in Government: Enhancing Security, Trust, and Transparency](./blockchain-applications-in-government.pdf)  
+1. [Blockchain Applications in Government: Enhancing Security, Trust, and Transparency](./bLockchain-applications-in-government.pdf)  
    Reimagining public institutions through distributed technologies.  
    This paper explores how blockchain can enhance transparency, trust, and efficiency in government systems. From secure identity management to smart contracts for public services, it outlines actionable use cases and policy considerations for embedding blockchain into institutional infrastructure.
 
