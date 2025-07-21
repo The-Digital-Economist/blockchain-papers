@@ -1,10 +1,10 @@
-# ⛓️ Blockchain Papers | The Digital Economist
+# Blockchain Papers | The Digital Economist
 
 This repository explores the transformative potential of blockchain in reimagining governance, public infrastructure, and institutional design. From decentralized identity systems to collective decision‑making frameworks, these papers examine how distributed technologies can enhance transparency, accountability, and participatory governance—laying the foundation for resilient digital commons.
 
 ---
 
-## 📄 Papers & Publications
+## Papers & Publications
 
 1. [Blockchain Applications in Government: Enhancing Security, Trust, and Transparency](./bLockchain-applications-in-government.pdf)  
    Reimagining public institutions through distributed technologies.  
@@ -16,11 +16,11 @@ This repository explores the transformative potential of blockchain in reimagini
 
 ---
 
-📚 **Access the full collection** at [thedigitaleconomist.com/center-of-excellence](https://www.thedigitaleconomist.com/center-of-excellence)
+**Access the full collection** at [thedigitaleconomist.com/center-of-excellence](https://www.thedigitaleconomist.com/center-of-excellence)
 
 ---
 
-## 🤝 Contribute to the Conversation
+## Contribute to the Conversation
 
 Have insights, case studies, or frameworks on blockchain and decentralized technologies?
 
